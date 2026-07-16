@@ -1,0 +1,13 @@
+JavaScript
+
+let score = 0;
+
+const button = document.querySelector("button");
+
+button.addEventListener("click", () => {
+
+  score++;
+
+  alert("Score: " + score);
+
+});
