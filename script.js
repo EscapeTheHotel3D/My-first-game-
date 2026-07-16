@@ -1,4 +1,3 @@
-JavaScript
 
 let score = 0;
 
